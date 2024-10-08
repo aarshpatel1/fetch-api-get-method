@@ -11,6 +11,15 @@ This project demonstrates how to use the Fetch API's `GET` method to retrieve da
 ## Live Demo
 You can visit the live version of the website here: [Fetch API GET Method Example](https://aarshpatel1.github.io/fetch-api-get-method/)
 
+The first view of the website
+
+![Website Screenshot](screenshots/screenshot1.png)
+
+After clicking the "Fetch a Dog Image" button
+
+![Website Screenshot](screenshots/screenshot2.png)
+
+
 ## Project Structure
 The project consists of a single HTML page that includes JavaScript for fetching and displaying the data.
 
